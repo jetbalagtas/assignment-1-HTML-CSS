@@ -2,7 +2,7 @@
 
 ## Quick note from Jet
 
-This repo was originally inside another "TIYLessons" repo. It's still there. I just moved a copy of it to its own repo for easier discovery. This was our first assignment for our 12-week bootcamp.
+This repo was originally inside another "TIYLessons" repo. It's still there. I just moved a copy of it to its own repo for easier discovery. Based on the old location, work was done Oct. 7, 2015. This was our first assignment for our 12-week bootcamp. No other edits have been made except for this new README file, a new homework.json file, and renaming of the aboutMe.html file to index.html for easier serving. Thanks for checking it out!
 
 ## Description
 Our very own website!  You've likely spent enough time navigating and visiting other websites, now it is time to craft one of your own.
