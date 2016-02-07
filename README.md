@@ -1,3 +1,5 @@
+#### [Visit the live demo here](http://jetbalagtas.github.io/assignment-1-HTML-CSS-about-me)
+
 # Make a website!
 
 ## Quick note from Jet
